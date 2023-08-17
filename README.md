@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=nathanielam0ah&style=flat-square)
 
 ### GitHub Statistics:
-![Nathaniel Amoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanielam0ah&show_icons=true&theme=dark)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nathanielam0ah&count_private=true&theme=tokyonight&showicons=true)]()
 
 ### Languages and Tools:
 <span>
