@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanielam0ah
 - 👀 I’m interested in code works and video games
-- 🌱 I’m currently learning Python and C# programming
+- 🌱 I’m learning Python and C# programming
 <!--- 💞️ I’m looking to collaborate on ... dunno
 - 📫 How to reach me ... ---> 
 
