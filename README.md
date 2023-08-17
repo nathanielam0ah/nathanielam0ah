@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=nathanielam0ah&style=flat-square)
 
 ### Stats:
-[![My GitHub Stats](https://github-readme-stats-ciu2.vercel.app/api/?username=nathanielam0ah&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats-sigma-five.app/api/?username=nathanielam0ah&count_private=true&theme=tokyonight&showicons=true)]()
 
 ### Languages:
 <p>
