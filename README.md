@@ -1,3 +1,5 @@
+### Thank you for visiting my Profile
+
 - 👋 Hi, I’m Nathaniel Amoah
 - 👀 I’m interested in code works and video games
 - 🌱 I’m learning Python and C# programming
