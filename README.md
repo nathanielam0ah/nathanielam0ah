@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </span>
 
 ### Top Languages:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielam0ah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nathanielam0ah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
