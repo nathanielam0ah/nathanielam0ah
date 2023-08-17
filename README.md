@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathanielam0ah
+- 👋 Hi, I’m Nathaniel Amoah
 - 👀 I’m interested in code works and video games
 - 🌱 I’m learning Python and C# programming
 <!--- 💞️ I’m looking to collaborate on ... dunno
