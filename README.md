@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages:
 <!-- <span> -->
- <p align="left">
+ <p align="center">
  <img alt="language" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center">
  <img alt="language" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" align="center">
  <img alt="language" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center">
