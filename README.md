@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
   </p>
 </span>
 
-### Top Languages:
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nathanielam0ah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
