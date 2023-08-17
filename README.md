@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://komarev.com/ghpvc/?username=nathanielam0ah&style=flat-square)
 
 ### Stats:
-[![My GitHub Stats](https://gh-readme-five.vercel.app/api/?username=nathanielam0ah&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](gh-readme-five.vercel.app/api/?username=nathanielam0ah&count_private=true&theme=tokyonight&showicons=true)]()
 
 ### Languages:
 <p>
