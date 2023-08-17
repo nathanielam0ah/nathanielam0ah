@@ -18,15 +18,14 @@ You can click the Preview link to take a look at your changes.
 [![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=nathanielam0ah&count_private=true&theme=tokyonight&showicons=true)]()
 
 ### Languages:
-<span>
-  <p>
-    <img alt="language" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="language" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img alt="language" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="language" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="language" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  </p>
-</span>
+<p>
+  <img alt="language" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="language" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="language" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="language" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="language" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</p>
+
 
 [![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nathanielam0ah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
